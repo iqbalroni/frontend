@@ -1,0 +1,24 @@
+/* banner */
+.text {
+    padding-left: 20px;
+}
+
+.banner .jumbotron {
+    background: url('../../img/background.jpg');
+    margin-bottom: 0;
+}
+
+.banner .text {
+    margin-top: 80px;
+    color: #295939;
+}
+
+.banner .display-4 {
+    font-weight: 500;
+}
+
+.banner p {
+    width: 70%;
+}
+
+/* end banner */

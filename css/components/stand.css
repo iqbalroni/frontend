@@ -1,0 +1,15 @@
+.stand .jumbotron {
+    background-color: #295939;
+    margin-bottom: 0;
+}
+
+.stand .card {
+    color: #ffffff;
+    background-color: #244e32;
+    border: none;
+}
+
+.stand .circle img {
+    width: 100px;
+    padding-top: 20px;
+}

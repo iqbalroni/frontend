@@ -1,0 +1,27 @@
+/* primary components */
+@import url('components/primary.css');
+
+/* navbar */
+@import url(components/navbar.css);
+
+/* scroll btn */
+@import url(components/scroll.css);
+
+/* banner */
+@import url(components/banner.css);
+
+/* footer */
+@import url(components/footer.css);
+
+/* new produk */
+@import url(components/new-produk.css);
+
+/* hot produk */
+@import url(components/hot_produk.css);
+
+/* stand */
+@import url(components/stand.css);
+
+/* blog */
+@import url(components/blog.css);
+
